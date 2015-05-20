@@ -26,7 +26,6 @@ bundles=(kien/ctrlp.vim
          nathanaelkane/vim-indent-guides
          scrooloose/syntastic              # syntax highlighting 
          Raimondi/delimitMate
-         Valloric/YouCompleteMe
          marijnh/tern_for_vim
          godlygeek/tabular
          Lokaltog/vim-easymotion
